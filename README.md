@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshitha Sandakelum</h1>
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Learning+Full-Stack+Developer;Pursing+New+Technologies";AI+" " +ML></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Learning+Full-Stack+Developer;Pursing+New+Technologies;AI+|+ML"></a>
 </p>
 
 
